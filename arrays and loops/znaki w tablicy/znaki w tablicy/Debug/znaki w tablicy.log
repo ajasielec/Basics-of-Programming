@@ -1,0 +1,4 @@
+﻿  Źródło.c
+D:\dokumenty\student debil\Podstawy programowania\lab_6\znaki w tablicy\znaki w tablicy\Źródło.c(2,1): warning C4005: "EOF": ponowna definicja makra
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(41): message : zobacz poprzednią definicję „EOF”
+  znaki w tablicy.vcxproj -> D:\dokumenty\student debil\Podstawy programowania\lab_6\znaki w tablicy\Debug\znaki w tablicy.exe
